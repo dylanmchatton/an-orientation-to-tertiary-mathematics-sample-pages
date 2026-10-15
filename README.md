@@ -3,12 +3,12 @@
 **Independent mathematics textbook — work in progress**  
 Dylan McHatton · Australian National University mathematics graduate
 
-An introductory text developed as an orientation to tertiary mathematics, aimed at high achieving secondary-school students and first year university students. It introduces each key subject area of tertiary mathematics in a way that is accessible to the intended demographic. It aims to bridge the gap university level textbooks, which often assume a high level of mathematical maturity, and superficial explanations like 
+An introductory text developed as an orientation to tertiary mathematics, aimed at high achieving secondary-school students and first year university students. It introduces each key subject area of tertiary mathematics in a way that is accessible to the intended demographic. It aims to bridge the gap between university level textbooks, which often assume a high level of mathematical maturity, and superficial explanations like 
 - "Group theory is the study of symmetry" 
 - "Algebraic topology is where a donut and a coffee mug are the same"
 - "Real analysis is calculus with rigorous proofs"
 
-Each subject area introduces establishes a mathematical objective, often times appealing to geometric intuition, then introducing the relevant algebra. Students should finish reading this book and have a good understanding of what each subject area studies, what the content looks like and how it connects to other subject areas. I also want to introduce students to some of the algebra, but without turning the text into a textbook. I envision a reader of this text looking at mathematics that's left on a whiteboard and being able to confidently identify the subject area - akin to how you can distinguish french, mandarin and arabic without understanding the languages
+Each subject area establishes a mathematical objective, often times appealing to geometric intuition, then introducing the relevant algebra. Students should finish reading this book and have a good understanding of what each subject area studies, what the content looks like and how it connects to other subject areas. I also want to introduce students to some of the algebra, but without turning the text into a textbook. I envision a reader of this text looking at mathematics that's left on a whiteboard and being able to confidently identify the subject area - akin to how you can distinguish French, Mandarin and Arabic without understanding the languages
 
 The excerpts below show a few of the ways the text introduces material in calculus and pure mathematics. **These are draft samples, not chapters from a published edition.**
 
@@ -37,7 +37,6 @@ The figures in these samples combine LaTeX typesetting with TikZ/PGFPlots diagra
 - **Status:** Unpublished work in progress; content may change as the manuscript is revised.
 - **Scope:** Only selected samples are public. The complete manuscript and source files are not included in this repository.
 - **Copyright:** © 2026 Dylan McHatton. All rights reserved. No open-source licence is granted for the manuscript excerpts.
-- **Note:** Three minor corrections were made while preparing the public excerpts (one LaTeX compilation typo and two notation/arithmetic typos); the original supplied Overleaf archives were not modified. This is not a comprehensive mathematical proofread.
 
 For questions about the project or to request further material, please get in touch through my GitHub profile.
 
