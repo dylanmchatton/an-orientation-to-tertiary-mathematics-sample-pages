@@ -8,7 +8,7 @@ An introductory text developed as an orientation to tertiary mathematics, aimed 
 - "Algebraic topology is where a donut and a coffee mug are the same"
 - "Real analysis is calculus with rigorous proofs"
 
-Each subject area establishes a mathematical objective, often times appealing to geometric intuition, then introducing the relevant algebra. Students should finish reading this book and have a good understanding of what each subject area studies, what the content looks like and how it connects to other subject areas. I also want to introduce students to some of the algebra, but without turning the text into a textbook. I envision a reader of this text looking at mathematics that's left on a whiteboard and being able to confidently identify the subject area - akin to how you can distinguish French, Mandarin and Arabic without understanding the languages
+Each subject area establishes a mathematical objective, often times appealing to geometric intuition, then introduces the relevant algebra. Students should finish reading this book and have a good understanding of what each subject area studies, what the content looks like and how it connects to other subject areas. I also want to introduce students to some of the algebra, but without turning the text into a textbook. I envision a reader of this text looking at mathematics that's left on a whiteboard and being able to confidently identify the subject area - akin to how you can distinguish French, Mandarin and Arabic without understanding the languages
 
 The excerpts below show a few of the ways the text introduces material in calculus and pure mathematics. **These are draft samples, not chapters from a published edition.**
 
